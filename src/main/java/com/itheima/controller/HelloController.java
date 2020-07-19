@@ -18,6 +18,7 @@ public class HelloController {
     @PreAuthorize("hasRole('ROLE_ADMIN')")//调用此方法要求当前用户必须具有ROLE_ADMIN角色
     public String delete(){
         System.out.println("delete...");
+        System.out.println("Testing new branch in GitHub");
         return "success";
     }
 }

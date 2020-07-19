@@ -2,182 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86775542-9988-4132-9190-0732f3dbd046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springsecuritydemo_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springsecuritydemo_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_dysmsapi_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_4_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itheima_health_common_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itheima_health_interface_1_0_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_happy_dns_java_0_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_18_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_18_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_12_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_acl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_taglibs_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springsecuritydemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/service/SpringSecurityUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/service/SpringSecurityUserService2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-security.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/b.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/service/SpringSecurityUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itheima/service/SpringSecurityUserService2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring-security.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/service/SpringSecurityUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/classes/com/itheima/service/SpringSecurityUserService2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/classes/spring-security.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/aliyun-java-sdk-core-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/aliyun-java-sdk-dysmsapi-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/commons-pool2-2.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/curvesapi-1.03.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/druid-1.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/dubbo-2.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.47.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/gson-2.6.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/happy-dns-java-0.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/health_common-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/health_interface-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.12.1.GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.20.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/jersey-client-1.18.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/jersey-core-1.18.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/jline-0.9.94.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/json-20170516.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-0.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/mybatis-paginator-1.2.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.32.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/netty-3.2.5.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/netty-3.7.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/okhttp-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/okio-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-4.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/poi-3.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/poi-ooxml-3.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/poi-ooxml-schemas-3.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/qiniu-java-sdk-7.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-jms-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-messaging-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-security-acl-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-security-config-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-security-core-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-security-taglibs-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-security-web-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/xmlbeans-2.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/zkclient-0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/lib/zookeeper-3.4.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/pages/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/pages/b.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/pages/c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/springsecuritydemo-1.0-SNAPSHOT/pages/d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-07-11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/controller/HelloController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +14,13 @@
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="王坤鹏" />
+        <option value="王坤鹏1" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -276,22 +108,41 @@
       <option name="presentableId" value="Default" />
       <updated>1594441906720</updated>
       <workItem from="1594441917061" duration="9427000" />
-      <workItem from="1595081751101" duration="6001000" />
+      <workItem from="1595081751101" duration="8183000" />
     </task>
+    <task id="LOCAL-00001" summary="Spring Security 权限测试">
+      <created>1595121887971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595121887972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Spring Security 权限测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring Security 权限测试" />
+    <MESSAGE value="测试创建新分支，并在新分支上提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试创建新分支，并在新分支上提交代码" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="0" key="CommitChangelistDialog2" timestamp="1595121827067">
+    <state x="200" y="0" key="CommitChangelistDialog2" timestamp="1595198512168">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595121827067" />
+    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595198512168" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1595121057053">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -316,5 +167,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595121231196" />
+    <state x="413" y="274" key="git4idea.ui.GitResetDialog" timestamp="1595122005143">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="274" key="git4idea.ui.GitResetDialog/0.0.1366.738@0.0.1366.738" timestamp="1595122005143" />
   </component>
 </project>
