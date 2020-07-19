@@ -148,10 +148,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="测试代码冲突，分上提交代码" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="0" key="CommitChangelistDialog2" timestamp="1595199449206">
+    <state x="200" y="0" key="CommitChangelistDialog2" timestamp="1595199512955">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595199449206" />
+    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595199512955" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1595121057053">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -176,6 +176,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595121231196" />
+    <state x="401" y="170" key="git4idea.merge.GitMergeDialog" timestamp="1595199591754">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="401" y="170" key="git4idea.merge.GitMergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1595199591754" />
     <state x="413" y="274" key="git4idea.ui.GitResetDialog" timestamp="1595122005143">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
