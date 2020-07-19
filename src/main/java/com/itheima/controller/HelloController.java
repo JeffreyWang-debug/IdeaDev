@@ -19,6 +19,7 @@ public class HelloController {
     public String delete(){
         System.out.println("delete...");
         System.out.println("Testing new branch in GitHub");
+        System.out.println("主干在第22行添加");
         return "success";
     }
 }
