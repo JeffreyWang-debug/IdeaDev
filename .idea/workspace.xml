@@ -13,8 +13,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="jeffrey" />
         <option value="王坤鹏" />
-        <option value="王坤鹏1" />
       </list>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -139,10 +139,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="测试创建新分支，并在新分支上提交代码" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="0" key="CommitChangelistDialog2" timestamp="1595198512168">
+    <state x="200" y="0" key="CommitChangelistDialog2" timestamp="1595199074914">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595198512168" />
+    <state x="200" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595199074914" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1595121057053">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
